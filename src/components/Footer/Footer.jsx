@@ -37,9 +37,9 @@ const Footer = () => {
             <Col md={3} sm={5} className='box'>
               <h2>Contact Us</h2>
               <ul>
-                <li>70 Washington Square South, New York, NY 10012, United States </li>
-                <li>Email: uilib.help@gmail.com</li>
-                <li>Phone: +1 1123 456 780</li>
+                <li>F-26/4, Ram Dulari Tundelkar Ji Rd, Adjoining Royal Enfield, </li>
+                <li>Pocket D, Okhla Phase II, Okhla Industrial Estate,</li>
+                <li>New Delhi, Delhi 110020</li>
               </ul>
             </Col>
           </Row>
@@ -48,4 +48,5 @@ const Footer = () => {
   )
 }
 
+ 
 export default Footer
